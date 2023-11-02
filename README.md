@@ -1,6 +1,6 @@
 # Cactus Plant Flea Markert Landing Page(LP)
 
-##Building a landing page using Tailwind CSS
+## Building a landing page using Tailwind CSS
 
 a Clone of the Cactus plant flea market page built with HTML and styled with Tailwind CSS
 this is a brand I personally love and I wanted to work with Tailwind to understand how
