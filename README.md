@@ -8,5 +8,5 @@ it works and how to set it up in a basic HTML project. I was also able to work w
 Grid property 
 property. 
 
-![Landing page](./Screenshot(312))
+![Landing page](./Screenshot (312).png))
 
